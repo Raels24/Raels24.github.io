@@ -7,6 +7,6 @@
 - javaScript
 
 
-## Github repo hotel_app
+### Github repo hotel_app
 
-https://github.com/Raels24/hotel_app
+[hotel_app](https://github.com/Raels24/hotel_app)

@@ -6,6 +6,14 @@
 - kotlin
 - javaScript
 
+### other skils
+
+- CSS
+- HTML
+- MySQL
+- linux
+- AWS
+- Cisco packet tracer
 
 ### Github repo hotel_app
 

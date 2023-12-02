@@ -1,6 +1,3 @@
-#Build settings
+# Build settings
 markdown: kramdown
 remote_theme: benbalter/ret lab 
-body {
-  background-color: blue;
-}
